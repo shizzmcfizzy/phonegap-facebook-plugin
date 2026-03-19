@@ -1173,7 +1173,9 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"rmarganti.vsc-material-facebook-theme"
+				"rmarganti.vsc-material-facebook-theme",
+				"scalameta.metals",
+				"Pleiades.java-extension-pack-jdk"
 			]
 		}
 	}
